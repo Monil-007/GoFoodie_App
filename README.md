@@ -1,1 +1,3 @@
-# GoFoodie_App
+# forkify Project
+
+Recipe application with custom recipe uploads.
